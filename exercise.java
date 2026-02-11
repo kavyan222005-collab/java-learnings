@@ -14,3 +14,9 @@ class Exercise{
     }
 }
 
+class demo6 {
+    public static void main(string[] args) {
+        int[][] num = {{10,20},{30,40}};
+        System.out.println(num[1][1]);
+    }
+}
